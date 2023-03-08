@@ -1,33 +1,21 @@
-### Olá sou André
-- 🌱 I’m currently learning React.js
-- 📫 Contate-me:andreddettmer@hotmail.com
-- 😄 Pronomes: ele/dele
-##
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-<div align="center">
-  <a href="https://github.com/andredavedovicz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andredavedovicz&show_icons=true&theme=dark&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andredavedovicz&theme=dark"/>
-</div>
-  
-## 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" >
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!+My+name+is+André+Davedovicz+Dettmer;I'm+a+Software+Engineer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+### Skills
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,vite,materialui,tailwind,bootstrap"></img>
+### Other Skills
+<img src="https://skillicons.dev/icons?i=python,c,cpp,mysql,powershell"></img>
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman"></img>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=andredavedovicz&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="André Davedovicz Dettmer github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andredavedovicz&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
-  
-##
-  
-<div align="center">
-<a href="https://instagram.com/andredavedovicz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
-<a href = "mailto:andreddettmer@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a](https://www.linkedin.com/in/andr%C3%A9-davedovicz-dettmer-3a4999156/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-  
-![Snake animation](https://github.com/andredavedovicz/andredavedovicz/blob/output/github-contribution-grid-snake.svg)
-  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MatheusAlvarez&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=andredavedovicz&theme=gotham)
+
